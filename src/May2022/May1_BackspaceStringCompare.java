@@ -33,7 +33,7 @@ import java.util.Stack;
  * s and t only contain lowercase letters and '#' characters.
  */
 
-public class BackspaceStringCompare {
+public class May1_BackspaceStringCompare {
     public static void main(String[] args) {
         String s1 = "ab##";
         String s2 = "c#d#";
